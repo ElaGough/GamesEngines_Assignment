@@ -11,4 +11,4 @@
 ##### an example of one of the petals is shown in the following video:
 
 #####
-[![Watch the video](https://drive.google.com/file/d/1sJToMDXYm6QAwKCfo0jyXF6XkT9P8ySH/view?usp=sharing)](https://drive.google.com/file/d/1R1ui9iuhvWQHBZTusRA1BImRKMQl1Ysd/view?usp=sharing)
+[![Watch the video](https://github.com/ElaGough/GamesEngines_Assignment/blob/master/image_petal.png)](https://drive.google.com/file/d/1R1ui9iuhvWQHBZTusRA1BImRKMQl1Ysd/view?usp=sharing)
